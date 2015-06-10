@@ -2,5 +2,5 @@
 
 main ()
 {
-printf ("Hello and welcome to XXXXXX!");
+printf ("Hello &user and welcome to XXXXXX!\n");
 }
